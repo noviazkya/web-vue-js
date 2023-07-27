@@ -13,7 +13,7 @@ import { TheCard } from 'flowbite-vue'
     
     </p>
   </the-card>
-  </div>
+  </div> 
   <center>
   <div class="basis-1/2">
     <the-card variant="image" img-src="https://i.pinimg.com/564x/fa/1d/bb/fa1dbb82d1d86f2c0319f56bb0d93f22.jpg" img-alt="Desk">
@@ -22,7 +22,7 @@ import { TheCard } from 'flowbite-vue'
     
     </p>
   </the-card>
-  </div>
+  </div>v
 </center>
   <div class="basis-1/2">
     <the-card variant="image" img-src="https://i.pinimg.com/564x/ad/7a/06/ad7a064a87d6794b0cea5ecd1cff5bab.jpg" img-alt="Desk">
