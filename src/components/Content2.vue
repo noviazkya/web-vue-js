@@ -22,7 +22,7 @@ import { TheCard } from 'flowbite-vue'
     
     </p>
   </the-card>
-  </div>v
+  </div>
 </center>
   <div class="basis-1/2">
     <the-card variant="image" img-src="https://i.pinimg.com/564x/ad/7a/06/ad7a064a87d6794b0cea5ecd1cff5bab.jpg" img-alt="Desk">
